@@ -1,4 +1,4 @@
-module entgo.io/contrib
+module github.com/rlebel12/contrib
 
 go 1.18
 
